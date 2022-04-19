@@ -1,0 +1,12 @@
+{
+  "name": "krongkaewpon/user-service",
+  "require": {
+    "laravel/framework": "^8.12|^9.2"
+  },
+  "authors": [
+    {
+      "name": "Krongkaew Ponboobpha",
+      "email": "krongkaew@enres.co"
+    }
+  ]
+}
